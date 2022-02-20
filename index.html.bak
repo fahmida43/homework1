@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+       <head>
+	       <title>WEB DESIGN</title>
+	   </head>
+       <body>
+	       <marquee>Web design Home Work 1</marquee>
+	      <h1> HTML CLASS ONE</h1>
+	      <h2> HTML CLASS ONE </h2>
+		  <h3> HTML CLASS ONE </h3>
+		  <h4> HTML CLASS ONE </h4>
+		  <h5> HTML CLASS ONE </h5>
+		  <h6> HTML CLASS ONE </h6>
+		  <hr width="250" align='left'>
+		  <p align="center"><b><i>HTML (Hypertext Markup Language)</i></b> is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs,
+		  a list of bulleted points, or using images and data tables.</p>
+		  <p><b><i>Web design</i></b> encompasses many different skills and 
+		  disciplines in the production and maintenance of websites.<br> The different areas of web
+		  design include web graphic design; user interface design; authoring, including standardised
+		  code and proprietary software; user experience design; and search engine optimization.</p>
+		  <b>BOLD</b> <strong>BOLD</strong>
+		  
+		  <i>ITALIC</i> <em>For brail signal</em>
+		  <u>UNDERLINE</u>
+		  <p>a<sup>2</sup>+b<sup>2</sup></p>
+		  <p>H<sub>2</sub>0</p>
+		  <p>Learn Web Design  Only at <mark><ins>10000tk</ins></mark> <del>15000</del>tk</p> 
+		  <p><blockquote>“When I say develop your skills, I don’t mean related to every business area of that
+		  industry.
+		  This is not very realistic. I mean, the field of your expertise in that industry.”
+	       </blockquote><q>Schooling doesn't assure employment but skill does.</q></p>
+		   
+		   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3689.86972292145!2d91.
+		   83719031443019!3d22.358547446429196!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!
+		   1s0x30ad274609dda25f%3A0xd59761fea5a91d3b!2sCreative%20IT%20Institute%2C%20Chattogram%20Branch!5e0!3m2!
+		   1sen!2sbd!4v1645291356585!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="
+		   " loading="lazy"></iframe>
+		   <iframe src="https://www.creativeitinstitute.com/" </iframe>
+		   <iframe width="560" height="315" src="https://www.youtube.com/embed/A5n21YlzOM4" title="YouTube 
+		   video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+		   gyroscope; picture-in-picture" allowfullscreen></iframe>
+		 </body>
+</html>
